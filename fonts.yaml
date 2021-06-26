@@ -12,6 +12,9 @@ fonts:
     Monofur: Monofur NF
     Hack: Hack NF
     SpaceMono: SpaceMono NF
+    Inconsolata: Inconsolata NF
+    FiraCode:
+        normal: FiraCode
     JetBrains:
         normal: JetBrains Mono Medium Nerd Font
         italic: JetBrains Mono Medium Nerd Font
